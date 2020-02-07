@@ -1,18 +1,14 @@
 <p align="center">
 A life hack for Microsoft Office Outlook users on Windows.<br>
-Here is an Outlook Addin, through which you can simply wish someone from your readymade Birthday greeting template.
+Here is an Outlook Addin, through which you can automatically send a greetings <br>
+in email to someone from your readymade Birthday greeting template.
 </p>
 
 # Install
 
-To get started with this Addin, first download the setup folder.<br>
-Then close your Outlook if it is already open, Install by clicking on setup.exe and done.
-
-<br>
-<h3 align="center">
-    <a href="https://sachin4dotnet.github.io/Microsoft_Outlook_Addin/" target="_blank">Documentation</a>
-</h3>
-<br>
+To get started with this Addin, first download the setup folder.
+<h3><a href="/Sachin4dotnet/Microsoft_Outlook_Addin/archive/master.zip" target="_blank">Download as Zip</a></h3>
+Then first close your Outlook if it is already open, Install by clicking on setup.exe to Install and you're done.
 
 ## ❤️ Free-Source Outlook Add in - Make life easy ⭐️
 
