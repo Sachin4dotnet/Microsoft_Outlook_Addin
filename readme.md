@@ -14,26 +14,16 @@ Then close your Outlook if it is already open, Install by clicking on setup.exe 
 </h3>
 <br>
 
-# [[Become a backer](https://opencollective.com/sweet-alert#backer)]
-# <a href="https://opencollective.com/sweet-alert#backers" target="_blank"><img src="https://opencollective.com/sweet-alert/backers.svg?width=890"></a>
-# ## Sponsors
-# Support this project by becoming a sponsor. Your logo will show up here with a link to your website. [[Become a sponsor](https://opencollective.com/sweet-alert#sponsor)]
-# <a href="https://opencollective.com/sweet-alert/sponsor/0/website" target="_blank"><img src="https://opencollective.com/sweet-alert/sponsor/0/avatar.svg"></a>
+## ❤️ Free-Source Software - Make life easy ⭐️
 
-## ❤️ Free-Source Software - Give ⭐️
+I am trying to create our day-to-day life easy by automating small / tiny task. In most of all organizations, HR is sending an birthday email with keeping CC to all but we don't want to wish each and everyone. At the same time we also don't want to miss to greet someone whom we knows or to whom we are close. So when you open your email message, you will see `Add-ins` menu and there you can see a button to `Say Happy Birthday`. It will automatically send a birthday greeting email to the one who is in To of that email. When you are trying this very first time, it will ask you to select an Birthday HTML template. If you don't know how to create an html template, then just prepare any beautiful draft in New Email, (don't forget remove your signature) and Save As it as html. It's so simple. It will save that path in future. If you want to reset that then you can click on `Reset Bday Template`.
 
-I have included the awesome `symfony/thanks` composer package as a dev
-dependency.
-Let your OS package maintainers know you appreciate them by starring
-the packages you use.
-Simply run `composer thanks` after installing this package.
-(And not to worry, since it's a dev-dependency it won't be installed in your
-live environment.)
+<br>
+Hope it helps!
+
 
 ## License
 
 This Outlook Addin is free software licensed under the MIT License (MIT). Please see [License File](LICENSE.md) for more information.
 
 <p align="center"> <b>Made with ❤️ towards India<b> </p>
-
-# > note: if you are using sweet-alert v1.0 you can get README for v1.0 from [here](https://github.com/realrashid/sweet-alert/blob/1.0/readme.md)
